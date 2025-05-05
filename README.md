@@ -1,6 +1,9 @@
 # Prompt Engineering ChatGPT for Developers- Course from DeepLearning.AI
 ![image](https://github.com/user-attachments/assets/74eb837f-08a4-4e9d-8c36-bc6f2716ea89)
 
+*Course credit goes to: DeepLearning.AI (https://learn.deeplearning.ai/)*
+
+---
 2 types of LLMs:
 1. Base LLM: Predicts the next word, based on text training data
 2. Instruction-tuned LLM: Tries to follow instructions.
